@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-**IT System Administrator in Köln** · Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
+Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 
 - 🖥️ **Windows & Linux administration**: I run and support Windows Server and Linux (Red Hat, Debian) environments, from 1st/2nd-level user support to infrastructure
 - 🔐 **Network & Security**: CCNA-certified; I configure and troubleshoot LAN/VLAN, VPNs, firewalls and routers, and implemented security protocols at Pi-lar GmbH
@@ -23,7 +23,7 @@
 - 📡 **14 years in telecom network operations** (Huawei, QUBEE), keeping large LTE/GSM networks stable
 - 🎓 M.Sc. Communication Systems & Networks (TH Köln), thesis on secure communication in decentralized networks
 - 📚 Currently: **AZ-800** (Windows Server Hybrid Administrator) · German B2.2
-- 🎯 Open to **IT System Administrator / Network / DevOps** roles in Köln, Bonn and Düsseldorf
+
 
 ---
 
