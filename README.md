@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Sakhawat Abedin 👋</h1>
-<h3 align="center">IT System Administrator · Network & Security (CCNA) · Windows & Linux · Automation</h3>
+<h3 align="center">IT System Administrator · End User Computing · Network Support · DevOps</h3>
 
 <p align="center">
   📍 Köln, Germany &nbsp;|&nbsp; 🎓 M.Sc. Communication Systems & Networks (TH Köln)
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
+**IT System Administrator in Köln** · Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 
 - 🖥️ **Windows & Linux administration**: I run and support Windows Server and Linux (Red Hat, Debian) environments, from 1st/2nd-level user support to infrastructure
 - 🔐 **Network & Security**: CCNA-certified; I configure and troubleshoot LAN/VLAN, VPNs, firewalls and routers, and implemented security protocols at Pi-lar GmbH
@@ -23,7 +23,7 @@ Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 - 📡 **14 years in telecom network operations** (Huawei, QUBEE), keeping large LTE/GSM networks stable
 - 🎓 M.Sc. Communication Systems & Networks (TH Köln), thesis on secure communication in decentralized networks
 - 📚 Currently: **AZ-800** (Windows Server Hybrid Administrator) · German B2.2
-
+- 🎯 Open to **IT System Administrator / Network / DevOps** roles in Köln, Bonn and Düsseldorf
 
 ---
 
@@ -76,6 +76,7 @@ Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 
 | Role | Company | Period |
 |---|---|---|
+| Working Student – Software Development & Marketing | HavenBee | Oct 2026 – Present |
 | IT Support Specialist (1st & 2nd Level) | Self-employed, Köln | Oct 2025 – Present |
 | Working Student – IT System Administrator | Pi-lar GmbH, Köln | Jun 2024 – Sep 2025 |
 | Working Student – DevOps Engineer | APTIV Services Deutschland GmbH, Köln | Nov 2022 – May 2023 |
@@ -109,6 +110,7 @@ Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 |---|---|
 | [postiz-self-hosted](https://github.com/shuvoece/postiz-self-hosted) | Self-hosting a social media scheduler with Docker Compose (Postgres, Redis, Temporal), secrets handling, backups, Coolify deployment |
 | [monitoring-stack](https://github.com/shuvoece/monitoring-stack) | Prometheus, Grafana & Alertmanager for servers, Docker and websites, with tested alert rules and CI validation |
+
 ---
 
 ### 🎓 Education
