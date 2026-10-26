@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Md Sakhawat Abedin 👋</h1>
-<h3 align="center">IT System Administrator · End User Computing · Network Support · DevOps</h3>
-
+<h3 align="center">IT System Administrator · Network & Security (CCNA) · Windows & Linux · Automation · DevOps</h3>
 <p align="center">
   📍 Köln, Germany &nbsp;|&nbsp; 🎓 M.Sc. Communication Systems & Networks (TH Köln)
 </p>
