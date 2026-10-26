@@ -7,4 +7,5 @@
 - ⚙️ I improve system stability through **automation** (Ansible, Terraform), **containers** (Docker, Kubernetes) and **proactive monitoring** (Prometheus, Grafana)
 - 🌐 15+ years of networking background — from **LTE/GSM network operations** at Huawei & QUBEE to enterprise LAN/VLAN/VPN today
 - 🔐 Master's thesis on **secure communication in decentralized networks** (FluidOS × Neuropil)
+  (Enhancing Security in Decentralized Networks: A Collaborative Framework Between FluidOS and Neuropil for Secure          Communication in Distributed Systems)
 - 📚 Currently working on: **AZ-800** (Windows Server Hybrid Administrator) · German B2.2
