@@ -108,7 +108,7 @@ Network & Security (CCNA) · Windows & Linux · Automation (Ansible/Python)
 | Project | What it shows |
 |---|---|
 | [postiz-self-hosted](https://github.com/shuvoece/postiz-self-hosted) | Self-hosting a social media scheduler with Docker Compose (Postgres, Redis, Temporal), secrets handling, backups, Coolify deployment |
-
+| [monitoring-stack](https://github.com/shuvoece/monitoring-stack) | Prometheus, Grafana & Alertmanager for servers, Docker and websites, with tested alert rules and CI validation |
 ---
 
 ### 🎓 Education
